@@ -24,9 +24,11 @@ How to use
 3 Run Audit: Execute ⁠python audit.py⁠ to perform the analysis on the company claims.
 
 Important Note
+
 Target Reconciliation Line: Ensure the model compares the target year emission goals against the reported emissions.
 
 Project Structure
+
  ⁠audit.py⁠: The main script for running the audit.
  ⁠company_data.csv⁠: The dataset containing the corporate claims.
  ⁠create_data.py⁠: Script to generate/clean your data.
