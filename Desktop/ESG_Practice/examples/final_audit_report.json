@@ -1,0 +1,12 @@
+[
+    {
+        "company": "TechCorp",
+        "claim": "15.0% reduction",
+        "verdict": "Evidence found on page 2. The report confirms that TechCorp has achieved a 15% reduction in carbon emissions compared to the 2024 baseline."
+    },
+    {
+        "company": "GreenEnergyCo",
+        "claim": "30.0% reduction",
+        "verdict": "Incomplete. While the report mentions a commitment to reduction, specific baseline emissions data for 2025 was not provided."
+    }
+]
