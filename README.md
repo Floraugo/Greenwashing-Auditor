@@ -30,10 +30,15 @@ Target Reconciliation Line: Ensure the model compares the target year emission g
 Project Structure
 
  ⁠audit.py⁠: The main script for running the audit.
+ 
  ⁠company_data.csv⁠: The dataset containing the corporate claims.
+ 
  ⁠create_data.py⁠: Script to generate/clean your data.
+ 
  ⁠extract.py⁠: Helper script to extract text/data for the pipeline.
+ 
  ⁠final_audit_report.json⁠: The output generated after running the audit.
+ 
  ⁠report.pdf⁠: The source document being audited.
 
 Acknowledgements
