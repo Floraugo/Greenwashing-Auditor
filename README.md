@@ -13,6 +13,7 @@ source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 
 # Install the required packages
 pip install openai pandas pymupdf python-dotenv
+```
 
 How to use
 1 Prepare Data: Run ⁠python create_data.py⁠ to get your company data ready.
