@@ -16,9 +16,10 @@ pip install openai pandas pymupdf python-dotenv
 ```
 
 ## How to use
-1 Prepare Data: Run ⁠python create_data.py⁠ to get your company data ready.
-2 Extraction: Use ⁠python extract.py⁠ to pull the relevant information.
-3 Run Audit: Execute ⁠python audit.py⁠ to perform the analysis on the company claims.
+
+1. *Prepare Data:* Run python create_data.py to get your company data ready.
+2. *Extraction:* Use python extract.py to pull the relevant information.
+3. *Run Audit:* Execute python audit.py to perform the analysis on the company claims.
 
 ## Important Note
 Target Reconciliation Line: Ensure the model compares the target year emission goals against the reported emissions.
